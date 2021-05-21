@@ -1,0 +1,26 @@
+{
+  "name": "liquidator",
+  "version": "1.0.0",
+  "description": "Compound Liquidator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tkxkd0159/liquidator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tkxkd0159/liquidator/issues"
+  },
+  "homepage": "https://github.com/tkxkd0159/liquidator#readme",
+  "dependencies": {
+    "@compound-finance/compound-js": "^0.2.8",
+    "dotenv": "^9.0.2",
+    "fs-extra": "^10.0.0",
+    "got": "^11.8.2"
+  },
+  "type": "module"
+}
