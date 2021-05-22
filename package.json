@@ -20,7 +20,8 @@
     "@compound-finance/compound-js": "^0.2.8",
     "dotenv": "^9.0.2",
     "fs-extra": "^10.0.0",
-    "got": "^11.8.2"
+    "got": "^11.8.2",
+    "lodash": "^4.17.21"
   },
   "type": "module"
 }

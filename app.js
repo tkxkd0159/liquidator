@@ -3,7 +3,7 @@ import fs from "fs-extra";
 import got from "got";
 import Compound from "@compound-finance/compound-js";
 
-import { totalNum } from "./modules/query.js";
+import { totalNum} from "./modules/query.js";
 
 const params = {
   network: "mainnet",
